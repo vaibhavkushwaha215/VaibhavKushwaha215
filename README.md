@@ -8,10 +8,10 @@
 ## 💻 Tech Stack:
 
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css,md&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css,md,py&theme=dark" />
 
 ### Frontend
-<img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" />     <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" />
+<img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" />    <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" />
 <br/>
 <img src="https://skillicons.dev/icons?i=angular,react,tailwind,vite&theme=dark" />
 
@@ -20,22 +20,30 @@
 
 ### CMS
 <img src="https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white" />
-
+<br/>
 <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" />
 
 ### DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=cloudflare,netlify,docker,cmake&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cloudflare,netlify,docker,cmake,git&theme=dark" />
 
 ### Data Science
+<img src="https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
+<br/>
 <img src="https://skillicons.dev/icons?i=anaconda&theme=dark" />
 
 ### Tools & Utilities
 <img src="https://img.shields.io/badge/Quill-52B0E7?style=for-the-badge&logo=apache&logoColor=white" />     <img src="https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=for-the-badge&logo=tampermonkey&logoColor=white" />
 <br/>
-<img src="https://skillicons.dev/icons?i=notion&theme=dark" />
+<img src="https://skillicons.dev/icons?i=notion,postman&theme=dark" />
+
+### IDEs & Editors
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,clion&theme=dark" />
+
+### AI Code Assistants
+<img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />    <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
 
 ### Security & Privacy
-<img src="https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white" />     <img src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white" />
+<img src="https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white" />    <img src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white" />
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=VaibhavKushwaha215&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)<br/>
